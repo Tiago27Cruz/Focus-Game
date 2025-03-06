@@ -1,6 +1,6 @@
 # Focus 
 
-Project developed for AI class @ FEUP - M.EIC
+Project developed for AI class @ FEUP - L.EIC
 
 ## Dependencies
 
