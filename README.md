@@ -1,5 +1,7 @@
 # Focus 
 
+Project developed for AI class @ FEUP - M.EIC
+
 ## Dependencies
 
 - pygame
