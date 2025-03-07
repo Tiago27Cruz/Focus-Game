@@ -2,6 +2,8 @@
 
 Project developed for AI class @ FEUP - L.EIC
 
+Grade: 20.0/20.0
+
 ## Dependencies
 
 - pygame
